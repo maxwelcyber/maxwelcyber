@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Maxwell 👋
 
-<!--
-**maxwelcyber/maxwelcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Student | Aspiring Cloud Security Engineer
 
-Here are some ideas to get you started:
+I’m passionate about building secure systems and understanding the mechanics behind technical exploits. Currently, I'm focused on cloud architecture, defensive security, and system-level forensics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Projects:** Building a custom SOC lab with Wazuh and Suricata.
+- 🛠️ **Technical Skills:** Linux System Admin, Cloud Security, OSINT, and iOS Forensics.
+- ⚡ **Fun Fact:** I love customizing my dev environments to look like Kali Linux.
+
+---
+
+### 🚀 Featured Projects
+* [Wazuh & Suricata SIEM Lab](#) - Integrated EDR/IDS with automated threat response.
+* [iOS Firmware & Forensics](#) - Permanent udev rules and DFU troubleshooting for iPhone 14 Pro.
