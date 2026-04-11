@@ -11,5 +11,4 @@ I’m passionate about building secure systems and understanding the mechanics b
 ---
 
 ### 🚀 Featured Projects
-* [Wazuh & Suricata SIEM Lab](#) - Integrated EDR/IDS with automated threat response.
-* [iOS Firmware & Forensics](#) - Permanent udev rules and DFU troubleshooting for iPhone 14 Pro.
+* [Wazuh & Suricata SIEM Lab](https://github.com/maxwelcyber/Wazuh-SOC-Lab.git) - Integrated EDR/IDS with automated threat response.
